@@ -1,0 +1,11 @@
+{
+  "name": "pixel-art",
+  "version": "1.0.0",
+  "description": "Pixel Art Editor: a small browser pixel editor with fill, line, rectangle, mirror drawing, undo/redo, PNG export and autosave.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
